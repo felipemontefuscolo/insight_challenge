@@ -1,2 +1,10 @@
 # insight_challenge
-This challenge proposed by Insight.
+
+
+Notes
+-----
+
+- src/count.cpp: Word Count code
+- src/median.cpp: Running Median code
+
+
